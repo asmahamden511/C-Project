@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735015374 source:c:\users\asmaa.desktop-3qj3krn\documents\new folder\c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
